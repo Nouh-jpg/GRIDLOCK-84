@@ -1,4 +1,4 @@
-# GRIDLOCK//84 🖥️
+# KERNEL KRASH 🖥️
 
 > **A hyper-focused, single-screen tower defense game built in Godot.**
 > > Protect the CPU core from waves of digital Virus enemies on a fixed grid.
@@ -17,7 +17,7 @@
 > > ## 🏗️ Project Structure
 > >
 > > ```
-> > GRIDLOCK-84/
+> > KERNEL-KRASH/
 > > ├── scenes/          # Godot scene files (.tscn)
 > > │   ├── main/        # Main game scene, CPU core
 > > │   ├── towers/      # Firewall, Defragmenter, EMP, ByteMiner
@@ -121,7 +121,7 @@
 > > > **Goal: Initialize the Godot project and Git repository, and set up the CPU core scene.**
 > > >
 > > > - [ ] Install Godot 4 (latest stable)
-> > > - [ ] - [ ] Create new Godot project named `GRIDLOCK-84`
+> > > - [ ] - [ ] Create new Godot project named `KERNEL-KRASH`
 > > > - [ ] - [ ] Initialize local Git repository inside the Godot project folder
 > > > - [ ] - [ ] Connect local repo to this GitHub remote (`git remote add origin https://github.com/Nouh-jpg/GRIDLOCK-84.git`)
 > > > - [ ] - [ ] Create the following folder structure in the Godot project: `scenes/`, `scripts/`, `assets/sprites/`, `assets/audio/`, `docs/`
@@ -154,4 +154,4 @@
 > > >
 > > > - [ ] ---
 > > >
-> > > - [ ] *GRIDLOCK//84 — Early Access. Built with ❤️ in Godot.*
+> > > - [ ] *KERNEL KRASH — Early Access. Built with ❤️ in Godot.*
